@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="calc_text">1234567890</string>
+    <string name="designed_devoloped_with_by_shabd_sharma">Designed + Devoloped with ♥ by Shabd Sharma</string>
+</resources>
